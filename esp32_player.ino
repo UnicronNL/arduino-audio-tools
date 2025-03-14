@@ -1,5 +1,6 @@
 /**
  * Make sure that the pins are set to on, on, on, on, on
+ * Make sure that PSRAM is enabled
  */
 
 #include "AudioTools.h"
